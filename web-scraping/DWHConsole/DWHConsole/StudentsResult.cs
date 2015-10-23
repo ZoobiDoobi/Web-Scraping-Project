@@ -42,12 +42,12 @@ namespace DWHConsole
         public string Subject11Value { get; set; }
         public string Subject12 { get; set; }
         public string Subject12Value { get; set; }
-        public int Subject7Practical { get; set; }
-        public int Subject8Practical { get; set; }
-        public int Subject9Practical { get; set; }
-        public int Subject10Practical { get; set; }
-        public int Subject11Practical { get; set; }
-        public int Subject12Practical { get; set; }
+        public string Subject7Practical { get; set; }
+        public string Subject8Practical { get; set; }
+        public string Subject9Practical { get; set; }
+        public string Subject10Practical { get; set; }
+        public string Subject11Practical { get; set; }
+        public string Subject12Practical { get; set; }
 
     }
 }
