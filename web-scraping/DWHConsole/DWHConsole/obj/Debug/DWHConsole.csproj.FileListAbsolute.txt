@@ -7,3 +7,6 @@ F:\Study Material\.NET Course\MyASP.NET\DWHConsole\DWHConsole\bin\Debug\HtmlAgil
 F:\Study Material\.NET Course\MyASP.NET\DWHConsole\DWHConsole\obj\Debug\DWHConsole.csprojResolveAssemblyReference.cache
 F:\Study Material\.NET Course\MyASP.NET\DWHConsole\DWHConsole\obj\Debug\DWHConsole.exe
 F:\Study Material\.NET Course\MyASP.NET\DWHConsole\DWHConsole\obj\Debug\DWHConsole.pdb
+C:\Users\Zubair33\Source\Repos\web-scraping\web-scraping\DWHConsole\DWHConsole\bin\Debug\DWHConsole.exe.config
+C:\Users\Zubair33\Source\Repos\web-scraping\web-scraping\DWHConsole\DWHConsole\obj\Debug\DWHConsole.exe
+C:\Users\Zubair33\Source\Repos\web-scraping\web-scraping\DWHConsole\DWHConsole\obj\Debug\DWHConsole.pdb
